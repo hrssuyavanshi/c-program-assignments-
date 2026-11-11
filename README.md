@@ -1,1 +1,2 @@
-# c-program-assignments-
+# c-program-assignments-02
+this file contains my C program assignments 02...
